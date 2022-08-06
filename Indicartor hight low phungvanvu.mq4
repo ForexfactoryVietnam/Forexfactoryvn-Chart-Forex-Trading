@@ -1,18 +1,18 @@
 //+------------------------------------------------------------------+
 //|                               Forexfactoryvn-High Low Ver v1.mq4 |
-//|                      Copyright © 2006, MetaQuotes Software Corp. |
+//|                      Copyright Â© 2006, MetaQuotes Software Corp. |
 //|                                        http://www.metaquotes.net |
 //+------------------------------------------------------------------+
-#property copyright "Copyright © 2006, MetaQuotes Software Corp."
+#property copyright "Copyright Â© 2006, MetaQuotes Software Corp."
 #property link      "http://www.metaquotes.net"
 #property link      " modified by cja "
 //+------------------------------------------------------------------+
 //|                               Forexfactoryvn-High Low Ver v1.mq4 |
-//|                                  Copyright © 2006, Forex-TSD.com |
+//|                                  Copyright Â© 2006, Forex-TSD.com |
 //|                         Written by IgorAD,1quanho9@gmail.com     |   
 //|                                      https://forexfactoryvn.com/ |                                      
 //+------------------------------------------------------------------+
-#property copyright "Copyright © 2006, Forex-TSD.com "
+#property copyright "Copyright Â© 2006, Forex-TSD.com "
 #property link      "http://www.forex-tsd.com/"
 
 #property indicator_chart_window
