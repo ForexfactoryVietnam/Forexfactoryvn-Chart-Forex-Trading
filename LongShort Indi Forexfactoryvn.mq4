@@ -1,9 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                          forexfactoryvietnam.mq4 |
-//|                      Copyright © 2005, MetaQuotes Software Corp. |
+//|                      Copyright Â© 2005, MetaQuotes Software Corp. |
 //|                                      https://forexfactoryvn.com/ |
 //+------------------------------------------------------------------+
-#property copyright "Copyright © 2005, MetaQuotes Software Corp."
+#property copyright "Copyright Â© 2005, MetaQuotes Software Corp."
 #property link      "http://www.metaquotes.net"
 
 #property indicator_chart_window
